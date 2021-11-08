@@ -100,3 +100,4 @@ else
 fi
 
 printf "%s\t%s\t%s\t%s\t%s\n" "$(date)" "$(logname)" "$command" "$*" "$status" >> $logFile
+
